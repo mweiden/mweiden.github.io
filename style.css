@@ -1,2 +1,46 @@
-body{font-family:Verdana, Geneva, sans-serif}
-p{font-size:75%}
+body {font-family:Verdana, Geneva, sans-serif}
+#main {
+  background-color:rgb(240,240,240);
+  color:rgb(50,50,50);
+}
+h1 {
+  font-size:135%;
+  font-weight:lighter;
+  margin-top:5px;
+}
+/*a {
+  text-decoration: none;
+}*/
+a:link {
+  color:rgb(185,20,0);
+}
+a:visited {
+  color:rgb(185,20,0);
+}
+p {font-size:85%}
+div.bounce {
+  margin-left:75px;
+  margin-top:75px;
+}
+div.col {
+  display:inline;
+  float:left;
+  width:450px;
+  font-size:85%
+}
+div.ele {
+  display: block;
+  margin-top:10px;
+  margin-bottom:5px;
+}
+div.spacer {
+  height:15px;
+}
+ul {
+  margin-top:5px;
+  margin-bottom:10px;
+  list-style-type:circle;
+}
+img {
+  margin-top:10px;
+}
