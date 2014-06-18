@@ -8,6 +8,9 @@ h1 {
   font-weight:lighter;
   margin-top:5px;
 }
+ul {
+  padding-left:30px;
+}
 /*a {
   text-decoration: none;
 }*/
@@ -22,16 +25,22 @@ div.bounce {
   margin-left:75px;
   margin-top:75px;
 }
-div.col {
+/*div.col {
   display:inline;
-  float:left;
-  width:375px;
+  width:175px;
   font-size:85%
+}*/
+div.row {
+  display:block;
+  float:none;
+  margin-top:20px;
+  clear:both;
 }
-div.ele {
-  display: block;
-  margin-top:10px;
-  margin-bottom:5px;
+div.col {
+  display: inline;
+  float:left;
+  width: 200px;
+  margin:10px 15px 5px 15px;
 }
 div.spacer {
   height:15px;
