@@ -1,10 +1,13 @@
-body {font-family:Verdana, Geneva, sans-serif}
+body {
+  font-family:Courier;
+  font-size:90%;
+}
 #main {
   background-color:rgb(240,240,240);
   color:rgb(50,50,50);
 }
 h1 {
-  font-size:135%;
+  font-size:125%;
   font-weight:lighter;
   margin-top:5px;
 }
@@ -20,7 +23,6 @@ a:link {
 a:visited {
   color:rgb(185,20,0);
 }
-p {font-size:85%}
 div.bounce {
   margin-left:75px;
   margin-top:75px;
@@ -52,4 +54,10 @@ ul {
 }
 img {
   margin-top:10px;
+}
+img.center {
+  display:block;
+  margin-top:10%;
+  margin-left:auto;
+  margin-right:auto;
 }
