@@ -1,6 +1,11 @@
 function setup() {
-  canvasSize = 750
-  createCanvas(1600, canvasSize);
+  lastZone = 1
+  bands = 8
+  zone = bands
+  canvasWidth = 700
+  canvasHeight = 700
+
+  createCanvas(canvasWidth, canvasHeight);
   background(240, 240, 240);
 
   segments = [
@@ -8,16 +13,30 @@ function setup() {
     [0.0, 0.35, -0.325, 0.725],
     [0.0, 0.3,  0.325,  0.675]
   ]
-
-  recurse(placeFrame(200), segments, 1)
-  recurse(placeFrame(500), segments, 2)
-  recurse(placeFrame(800), segments, 4)
-  recurse(placeFrame(1100), segments, 7)
-  recurse(placeFrame(1400), segments, 9)
 }
 
-function placeFrame(horiz) {
-  return [horiz, canvasSize - 25, canvasSize / 2, 0.0, 0.0, - (canvasSize - 50)]
+function draw() {
+  if (mouseX > 0 && mouseY > 0 && mouseX < canvasWidth && mouseY < canvasHeight) {
+    zone = getZone(canvasHeight - mouseY, bands, canvasHeight)
+  }
+  if (zone != lastZone) {
+    background(240, 240, 240);
+    recurse(placeFrame(canvasWidth / 2, canvasHeight), segments, zone + 1);
+    lastZone = zone
+  }
+}
+
+function placeFrame(horiz, width) {
+  return [horiz, width - 25, width / 2, 0.0, 0.0, - (width - 50)]
+}
+
+function getZone(loc, bands, maxLen) {
+  width = maxLen / bands
+  if (loc == maxLen) {
+    return int(loc / width) - 1
+  } else {
+    return int(loc / width)
+  }
 }
 
 function recurse(frame, segments, level) {
@@ -31,8 +50,6 @@ function recurse(frame, segments, level) {
   }
 }
 
-//function draw() {
-//}
 
 function rotateVec(vec, rad) {
   return [vecX(vec) * cos(rad) - vecY(vec) * sin(rad),
