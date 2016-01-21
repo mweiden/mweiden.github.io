@@ -41,7 +41,7 @@ div.row {
 div.col {
   display: inline;
   float:left;
-  width: 200px;
+  width: 250px;
   margin:10px 15px 5px 15px;
 }
 div.spacer {
