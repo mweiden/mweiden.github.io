@@ -1,0 +1,4 @@
+default: site
+
+site:
+	nanoc
