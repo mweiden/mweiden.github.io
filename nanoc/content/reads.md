@@ -24,6 +24,7 @@ Recommended reads are marked with an \*.
 * Martin Fowler et al. - Patterns of Enterprise Application Architecture
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
 * Francis Fukuyama - Political Order and Political Decay\*
+* Mohandas K. Gandhi - Autobiography: The Story of My Experiments with Truth
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works\*
