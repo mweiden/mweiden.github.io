@@ -1,5 +1,5 @@
 ---
-title: "Berlin reading list"
+title: "Reading list"
 category: learning
 ---
 
