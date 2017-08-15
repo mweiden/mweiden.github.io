@@ -13,14 +13,6 @@ a {
   text-decoration: none;
 }
 
-.email i::after {
-  content: attr(data-domain);
-}
-
-.email i::before {
-  content: attr(data-user) "\0040";
-}
-
 a:link,
 a:visited {
   color: #07c;
@@ -28,11 +20,6 @@ a:visited {
 
 a:hover {
   color: #08d;
-}
-
-h1 {
-  line-height: 35px;
-  letter-spacing: -1px;
 }
 
 .custom-col {
@@ -49,24 +36,19 @@ h1 {
   text-align: right;
 }
 
-#sidebar h1 {
-  transform-text: uppercase;
-
-  font-size: 40px;
+#sidebar h1>a {
+  text-decoration: none;
+  color: #333;
 }
 
-#sidebar h1 a {
-  color: #333;
-
+.nav-header a:link {
+  color: #555;
   text-decoration: none;
 }
 
-#sidebar h2 {
-  transform-text: uppercase;
-
-  font-size: 25px;
-
-  color: #333;
+.nav-header h2>a:hover {
+  color: #555;
+  text-decoration: none;
 }
 
 #sidebar ul {
@@ -74,14 +56,8 @@ h1 {
   margin: 10px 0;
 }
 
-#sidebar li {
-  font-size: 15px;
-
-  line-height: 20px;
-}
-
 .icon {
-  font-size: 150%;
+  font-size: 1.5em;
 }
 
 #image-gallery img {

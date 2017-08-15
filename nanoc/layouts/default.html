@@ -10,19 +10,20 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-51728991-1', 'mweiden.github.io');
+      ga('create', 'UA-51728991-1', 'mweiden.github.io' + '<%= @item.identifier.without_ext + '.html' %>');
       ga('send', 'pageview');
     </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
           crossorigin="anonymous">
     <!-- Custom Fonts -->
-    <link href="/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/assets/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/stylesheet.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
+    <!-- Custom Scripts -->
+    <script src="/assets/nav.js"></script>
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
@@ -32,7 +33,7 @@
           <div id="sidebar">
             <h1><a href="/">Matt Weiden</a></h1>
             <p>
-              <a href="mailto:&#109;&#97;&#116;&#116;&#104;&#101;&#119;&#46;&#119;&#101;&#105;&#100;&#101;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109"><i data-user="matthew.weiden" data-domain="gmail.com" class="fa fa-envelope-o icon"></i></a>
+              <a href="mailto:&#109;&#97;&#116;&#116;&#104;&#101;&#119;&#46;&#119;&#101;&#105;&#100;&#101;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109"><i class="fa fa-envelope-o icon"></i></a>
               <a href="https://www.linkedin.com/in/matthew-weiden-2b29894b/"><i class="fa fa-linkedin-square icon"></i></a>
               <a href="https://github.com/mweiden"><i class="fa fa-github icon"></i></a>
               <a href="https://twitter.com/mweiden"><i class="fa fa-twitter icon"></i></a>
@@ -40,12 +41,11 @@
               <a href="https://soundcloud.com/mweiden"><i class="fa fa-soundcloud icon"></i></a>
             </p>
             <p>
-              <%= index_by_category('info') %>
-              <%= index_by_category('projects') %>
-              <%= index_from_file('open source', 'content/open-source.csv') %>
-              <%= index_from_file('closed source', 'content/closed-source.csv') %>
-              <%= index_by_category('learning') %>
-              <%= index_by_category('blog') %>
+              <ul class="nav navbar-nav side-nav">
+                <% children_of(@items['/pages.*']).sort_by { |i| i[:sort_order] || 0 }.each do |i| %>
+                  <%= nav(i) %>
+                <% end %>
+              </ul>
             </p>
           </div>
         </div>

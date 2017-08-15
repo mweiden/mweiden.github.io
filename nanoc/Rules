@@ -13,6 +13,12 @@ compile '/**/*.md' do
   layout '/default.*'
 end
 
+route '/pages/blog/*' do
+    y, m, d, slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
+
+    "/blog/#{y}/#{m}/#{d}/#{slug.split('.').first}/index.html"
+end
+
 route '/**/*.{html,md}' do
   if item.identifier =~ '/index.*'
     '/index.html'
