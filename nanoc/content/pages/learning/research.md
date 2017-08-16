@@ -1,5 +1,5 @@
 ---
-title: "Research & publications"
+title: "Research"
 ---
 
 ## Unpublished research
