@@ -51,8 +51,8 @@
         </div>
 
         <div id="main" class="col-8 custom-col" >
-          <%= @item[:category] == 'projects' ? license : '' %>
           <%= title %>
+          <%= (@item.identifier.to_s.include? '/projects/') ? license : '' %>
           <%= yield %>
         </div>
       </div>
