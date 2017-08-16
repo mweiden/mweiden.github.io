@@ -1,7 +1,7 @@
 def nav(root_item, buffer='', layer=0)
   return buffer if root_item.nil? || root_item.path.nil? || root_item[:is_hidden]
 
-  children = nav_children(root_item).sort_by{ |c| c[:date] }.reverse
+  children = nav_children(root_item)
 
   if nav_active?(root_item)
     buffer << "<li class=\"active\">"
@@ -40,7 +40,12 @@ def nav_title_of(i)
 end
 
 def nav_children(item)
-  children_of(item)
+  children = children_of(item)
     .select { |child| !child[:is_hidden] && child.path }
-    .sort_by { |child| child[:sort_rank] || 0 }
+
+  if children.all?{ |c| c.key?(:date) }
+    children.sort_by{ |c| c[:date] }.reverse
+  else
+    children.sort_by{ |c| c[:title] || '' }
+  end
 end
