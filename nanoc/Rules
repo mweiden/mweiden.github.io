@@ -14,9 +14,9 @@ compile '/**/*.md' do
 end
 
 route '/pages/blog/*' do
-    y, m, d, slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
+  y, m, d, slug = /([0-9]+)\-([0-9]+)\-([0-9]+)\-([^\/]+)/.match(item.identifier).captures
 
-    "/pages/blog/#{y}/#{m}/#{d}/#{slug.split('.').first}/index.html"
+  "/pages/blog/#{y}/#{m}/#{d}/#{slug.split('.').first}/index.html"
 end
 
 route '/**/*.{html,md}' do

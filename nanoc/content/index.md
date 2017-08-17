@@ -1,9 +1,8 @@
 ---
-title: "Hi! 👋"
-display_title: false
+title: "About me"
 ---
 
-<a class="single-image"
-href="https://www.nytimes.com/2014/03/16/magazine/silicon-valleys-youth-problem.html">
-<img src="/assets/img/cool-vs-matters.png">
-</a>
+<img src="/assets/img/me.jpg" width="50%"/>
+
+I'm an Engineering Manager at SoundCloud. Broadly, my interests are data
+science, project management, and improving developer productivity.
