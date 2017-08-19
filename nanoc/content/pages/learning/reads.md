@@ -2,6 +2,10 @@
 title: "Reading list"
 ---
 
+<div id="image-gallery">
+  <img src="/assets/img/bookshelf.jpg">
+</div>
+
 Recommended reads are marked with an \*.
 
 * Marcus Aurelius - Meditations
