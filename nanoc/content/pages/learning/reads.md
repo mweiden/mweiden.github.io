@@ -48,6 +48,8 @@ Recommended reads are marked with an \*.
 * Evgeny Morozov - To Save Everything, Click Here
 * Maggie Nelson - The Art of Cruelty\*
 * Thomas Pynchon - Bleeding Edge
+* Franz Kafka - The Castle\*
+* Franz Kafka - The Trial\*
 * Karl Ove Knausgaard - My Struggle pt1\*
 * Karl Ove Knausgaard - My Struggle pt2\*
 * Karl Ove Knausgaard - My Struggle pt3
