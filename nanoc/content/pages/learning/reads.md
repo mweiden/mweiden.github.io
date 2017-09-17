@@ -17,8 +17,8 @@ Recommended reads are marked with an \*.
 * Jane Austen - Sense and Sensibility
 * Roland Barthes - Mythologies\*
 * Roland Barthes - S/Z\*
-* Roberto Bolano - The Savage Detectives
-* Roberto Bolano - 2666
+* Roberto Bolaño - The Savage Detectives
+* Roberto Bolaño - 2666
 * Dianna Booher - Would you put that in writing?
 * Dale Carnegie - How to Win Friends and Influence People
 * Robert Chandler (Editor) - Russian Short Stories from Pushkin to Buida\*
