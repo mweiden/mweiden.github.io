@@ -66,3 +66,4 @@ Recommended reads are marked with an \*.
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
+* Tarjei Vesaas - The Birds\*
