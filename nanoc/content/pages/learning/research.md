@@ -4,7 +4,7 @@ title: "Research"
 
 ## Unpublished research
 
-* [master's project]("docs/msc/mweiden_msc.pdf")
+* [master's project](/assets/msc/mweiden_msc.pdf)
 
 ## Publications
 
