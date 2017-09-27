@@ -30,9 +30,9 @@ Recommended reads are marked with an \*.
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works\*
-* Harvard Negotiation Project | Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
-* Harvard Negotiation Project | Roger Fisher and Daniel Shapiro - Beyond Reason
-* Harvard Negotiation Project | Stone, Patton, Heen - Difficult Conversations\*
+* Harvard Negotiation Project: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
+* Harvard Negotiation Project: Roger Fisher and Daniel Shapiro - Beyond Reason
+* Harvard Negotiation Project: Stone, Patton, Heen - Difficult Conversations\*
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Jessica Helfand - The Invention of Desire
