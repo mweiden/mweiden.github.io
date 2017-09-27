@@ -23,7 +23,6 @@ Recommended reads are marked with an \*.
 * Dale Carnegie - How to Win Friends and Influence People
 * Robert Chandler (Editor) - Russian Short Stories from Pushkin to Buida\*
 * William Deresiewicz - A Jane Austen Education\*
-* Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
 * Martin Fowler et al. - Patterns of Enterprise Application Architecture
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
 * Francis Fukuyama - Political Order and Political Decay\*
@@ -31,6 +30,9 @@ Recommended reads are marked with an \*.
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works\*
+* Harvard Negotiation Project | Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
+* Harvard Negotiation Project | Roger Fisher and Daniel Shapiro - Beyond Reason
+* Harvard Negotiation Project | Stone, Patton, Heen - Difficult Conversations\*
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Jessica Helfand - The Invention of Desire
@@ -62,7 +64,6 @@ Recommended reads are marked with an \*.
 * Eric Schmidt & Jonathan Rosenberg - How Google Works\*
 * Jason Stanley - How Propaganda Works\*
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
-* Stone, Patton, Heen - Difficult Conversations\*
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
