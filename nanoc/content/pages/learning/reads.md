@@ -39,6 +39,7 @@ Recommended reads are marked with an \*.
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Bohumil Hrabal - Too Loud a Solitude
 * Hunt & Thomas - The Pragmatic Programmer\*
+* Martin Kleppmann - Designing Data-Intensive Applications\*
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
 * Frederic Laloux - Reinventing Organizations\*
 * Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business\*
