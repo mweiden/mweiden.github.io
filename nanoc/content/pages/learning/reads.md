@@ -20,6 +20,7 @@ Recommended reads are marked with an \*.
 * Roberto Bolaño - The Savage Detectives
 * Roberto Bolaño - 2666
 * Dianna Booher - Would you put that in writing?
+* Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
 * Dale Carnegie - How to Win Friends and Influence People
 * Robert Chandler (Editor) - Russian Short Stories from Pushkin to Buida\*
 * William Deresiewicz - A Jane Austen Education\*
