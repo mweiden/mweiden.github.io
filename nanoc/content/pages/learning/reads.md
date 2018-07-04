@@ -70,4 +70,5 @@ Recommended reads are marked with an \*.
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
+* Eric Tyson and Ray Brown - Home Buying Kit for Dummies
 * Tarjei Vesaas - The Birds\*
