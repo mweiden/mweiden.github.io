@@ -20,6 +20,7 @@ Recommended reads are marked with an \*.
 * Roberto Bolaño - The Savage Detectives
 * Roberto Bolaño - 2666
 * Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
+* John Carreyrou - Bad Blood: Secrets and Lies in a Silicon Valley Startup\*
 * Dianna Booher - Would you put that in writing?
 * Brendan Burns - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
 * Dale Carnegie - How to Win Friends and Influence People
@@ -65,6 +66,7 @@ Recommended reads are marked with an \*.
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
 * Richard Rumelt - Good Strategy / Bad Strategy\*
 * Eric Schmidt & Jonathan Rosenberg - How Google Works\*
+* Kim Scott - Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
 * Jason Stanley - How Propaganda Works\*
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
