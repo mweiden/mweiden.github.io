@@ -68,9 +68,11 @@ Recommended reads are marked with an \*.
 * Eric Schmidt & Jonathan Rosenberg - How Google Works\*
 * Kim Scott - Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
 * Jason Stanley - How Propaganda Works\*
+* Neal Stephenson - In the beginning... was the command line
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
 * Eric Tyson and Ray Brown - Home Buying Kit for Dummies
 * Tarjei Vesaas - The Birds\*
+* Karl Zimmer - She Has Her Mother's Laugh
