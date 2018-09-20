@@ -39,6 +39,7 @@ Recommended reads are marked with an \*.
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Jessica Helfand - The Invention of Desire
+* Arle Russel Hochschild - Strangers In Their Own Land
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Bohumil Hrabal - Too Loud a Solitude
 * Hunt & Thomas - The Pragmatic Programmer\*
