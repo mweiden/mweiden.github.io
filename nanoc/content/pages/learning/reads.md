@@ -33,7 +33,7 @@ Recommended reads are marked with an \*.
 * Mohandas K. Gandhi - Autobiography: The Story of My Experiments with Truth
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
-* William Haeberle - How a Business Works\*
+* William Haeberle - How a Business Works
 * Harvard Negotiation Project: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
 * Harvard Negotiation Project: Roger Fisher and Daniel Shapiro - Beyond Reason
 * Harvard Negotiation Project: Stone, Patton, Heen - Difficult Conversations\*
@@ -43,11 +43,11 @@ Recommended reads are marked with an \*.
 * Arle Russel Hochschild - Strangers In Their Own Land
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Bohumil Hrabal - Too Loud a Solitude
-* Hunt & Thomas - The Pragmatic Programmer\*
+* Hunt & Thomas - The Pragmatic Programmer
 * Martin Kleppmann - Designing Data-Intensive Applications\*
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
 * Frederic Laloux - Reinventing Organizations\*
-* Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business\*
+* Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business
 * Jeffrey Linker - The Toyota Way\*
 * Michael Lopp - Managing Humans
 * Niccolò Machiavelli - The Prince\*
