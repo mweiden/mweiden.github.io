@@ -28,6 +28,7 @@ Recommended reads are marked with an \*.
 * William Deresiewicz - A Jane Austen Education\*
 * Martin Fowler et al. - Patterns of Enterprise Application Architecture
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
+* Francis Fukuyama - Identity: The Demand for Dignity and the Politics of Resentment\*
 * Francis Fukuyama - Political Order and Political Decay\*
 * Mohandas K. Gandhi - Autobiography: The Story of My Experiments with Truth
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
