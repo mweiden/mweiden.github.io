@@ -62,6 +62,7 @@ Recommended reads are marked with an \*.
 * Karl Ove Knausgaard - My Struggle pt2\*
 * Karl Ove Knausgaard - My Struggle pt3
 * Karl Ove Knausgaard - My Struggle pt4
+* Taylor Larimore et. al. - The Boglehead's Guide to Investing
 * Redlan Nadler - Leading with Emotional Intelligence\*
 * Joshua Cooper Ramo - The Seventh Sense
 * Donald G. Reinertsen - The Principles of Product Development Flow\*
