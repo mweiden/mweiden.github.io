@@ -17,6 +17,7 @@ Recommended reads are marked with an \*.
 * Jane Austen - Sense and Sensibility
 * Roland Barthes - Mythologies\*
 * Roland Barthes - S/Z\*
+* Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
 * Roberto Bolaño - The Savage Detectives
 * Roberto Bolaño - 2666
 * Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
