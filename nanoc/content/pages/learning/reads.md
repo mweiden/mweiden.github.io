@@ -75,6 +75,7 @@ Recommended reads are marked with an \*.
 * Neal Stephenson - In the beginning... was the command line
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
+* Peter Thiel with Blake Masters - Zero to One: Notes on Start-Ups, or How to Build the Future\*
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
 * Eric Tyson and Ray Brown - Home Buying Kit for Dummies
