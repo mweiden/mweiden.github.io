@@ -92,6 +92,8 @@ Recommended reads are marked with an \*.
 * Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
 * John Carreyrou - Bad Blood: Secrets and Lies in a Silicon Valley Startup\*
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
+* Jon Gertner - The Idea Factory: Bell Labs and the Great Age of American
+  Innovation\*
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
