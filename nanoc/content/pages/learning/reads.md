@@ -28,6 +28,7 @@ Recommended reads are marked with an \*.
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
 * Richard Rumelt - Good Strategy / Bad Strategy\*
 * Eric Schmidt & Jonathan Rosenberg - How Google Works\*
+* Eric Schmidt et. al. - Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell\*
 * Kim Scott - Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
 * Peter Thiel with Blake Masters - Zero to One: Notes on Start-Ups, or How to Build the Future\*
 * Joshua Cooper Ramo - The Seventh Sense
