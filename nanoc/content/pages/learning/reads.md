@@ -47,7 +47,7 @@ Recommended reads are marked with an \*.
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
 
-# Finance
+## Finance
 * Taylor Larimore et. al. - The Boglehead's Guide to Investing
 * Eric Tyson and Ray Brown - Home Buying Kit for Dummies
 
