@@ -57,7 +57,7 @@ Recommended reads are marked with an \*.
 * Francis Fukuyama - Political Order and Political Decay\*
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Arle Russel Hochschild - Strangers In Their Own Land
-* Rebecca Solnit - Call Them by Thier True Names: American Crises (and Essays)
+* Rebecca Solnit - Call Them by Their True Names: American Crises (and Essays)
 * Jason Stanley - How Propaganda Works\*
 
 ## Literature
