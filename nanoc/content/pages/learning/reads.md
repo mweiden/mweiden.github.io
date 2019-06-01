@@ -11,6 +11,7 @@ Recommended reads are marked with an \*.
 ## Business
 * Dianna Booher - Would you put that in writing?
 * Dale Carnegie - How to Win Friends and Influence People
+* John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works
