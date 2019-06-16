@@ -15,9 +15,9 @@ Recommended reads are marked with an \*.
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works
-* Harvard Negotiation Project: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
-* Harvard Negotiation Project: Roger Fisher and Daniel Shapiro - Beyond Reason
-* Harvard Negotiation Project: Stone, Patton, Heen - Difficult Conversations\*
+* Harvard Program on Negotiation: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
+* Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
+* Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Frederic Laloux - Reinventing Organizations\*
@@ -41,6 +41,7 @@ Recommended reads are marked with an \*.
 * Brendan Gregg - Systems Performance: Enterprise and the Cloud
 * Hunt & Thomas - The Pragmatic Programmer
 * Martin Kleppmann - Designing Data-Intensive Applications\*
+* Will Larson - An Elegant Puzzle: Systems of Engineering Management
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 
 ## Design
