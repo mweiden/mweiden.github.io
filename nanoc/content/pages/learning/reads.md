@@ -18,6 +18,7 @@ Recommended reads are marked with an \*.
 * Harvard Program on Negotiation: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
 * Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
 * Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
+* Harvard Program on Negotiation: William L. Ury - Getting Past No
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Frederic Laloux - Reinventing Organizations\*
