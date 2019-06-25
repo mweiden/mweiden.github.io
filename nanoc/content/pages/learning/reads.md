@@ -24,7 +24,6 @@ Recommended reads are marked with an \*.
 * Frederic Laloux - Reinventing Organizations\*
 * Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business
 * Jeffrey Linker - The Toyota Way\*
-* Michael Lopp - Managing Humans
 * Redlan Nadler - Leading with Emotional Intelligence\*
 * Donald G. Reinertsen - The Principles of Product Development Flow\*
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
@@ -35,20 +34,25 @@ Recommended reads are marked with an \*.
 * Peter Thiel with Blake Masters - Zero to One: Notes on Start-Ups, or How to Build the Future\*
 * Joshua Cooper Ramo - The Seventh Sense
 
-## Computer science and software engineering
-* Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
+## Computer science & software engineering
 * Brendan Burns - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+  Growth and Change
 * Martin Fowler et al. - Patterns of Enterprise Application Architecture
 * Brendan Gregg - Systems Performance: Enterprise and the Cloud
 * Hunt & Thomas - The Pragmatic Programmer
 * Martin Kleppmann - Designing Data-Intensive Applications\*
-* Will Larson - An Elegant Puzzle: Systems of Engineering Management
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 
 ## Design
 * Jessica Helfand - The Invention of Desire
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
+
+## Engineering management
+* Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
+* Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
+* Will Larson - An Elegant Puzzle: Systems of Engineering Management
+* Michael Lopp - Managing Humans
 
 ## Finance
 * Taylor Larimore et. al. - The Boglehead's Guide to Investing
