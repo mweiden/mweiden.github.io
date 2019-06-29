@@ -41,6 +41,7 @@ Recommended reads are marked with an \*.
 * Brendan Gregg - Systems Performance: Enterprise and the Cloud
 * Hunt & Thomas - The Pragmatic Programmer
 * Martin Kleppmann - Designing Data-Intensive Applications\*
+* Luciano Ramalho - Fluent Python\*
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
 
 ## Design
