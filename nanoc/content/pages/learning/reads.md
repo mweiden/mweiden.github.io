@@ -35,6 +35,7 @@ Recommended reads are marked with an \*.
 * Joshua Cooper Ramo - The Seventh Sense
 
 ## Computer science & software engineering
+* Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
 * Brendan Burns - Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
   Growth and Change
 * Martin Fowler et al. - Patterns of Enterprise Application Architecture
@@ -50,7 +51,6 @@ Recommended reads are marked with an \*.
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
 
 ## Engineering management
-* Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
 * Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
 * Will Larson - An Elegant Puzzle: Systems of Engineering Management
 * Michael Lopp - Managing Humans
