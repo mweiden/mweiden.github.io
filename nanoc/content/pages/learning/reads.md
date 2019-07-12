@@ -8,22 +8,19 @@ title: "Reading list"
 
 Recommended reads are marked with an \*.
 
-## Business
-* Dianna Booher - Would you put that in writing?
-* Dale Carnegie - How to Win Friends and Influence People
+## Business Management
 * John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
+* Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works
-* Harvard Program on Negotiation: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
-* Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
-* Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
-* Harvard Program on Negotiation: William L. Ury - Getting Past No
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Ben Horowitz - The Hard Thing About Hard Things\*
 * Frederic Laloux - Reinventing Organizations\*
+* Will Larson - An Elegant Puzzle: Systems of Engineering Management
 * Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business
 * Jeffrey Linker - The Toyota Way\*
+* Michael Lopp - Managing Humans
 * Redlan Nadler - Leading with Emotional Intelligence\*
 * Donald G. Reinertsen - The Principles of Product Development Flow\*
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
@@ -32,7 +29,14 @@ Recommended reads are marked with an \*.
 * Eric Schmidt et. al. - Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell\*
 * Kim Scott - Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
 * Peter Thiel with Blake Masters - Zero to One: Notes on Start-Ups, or How to Build the Future\*
-* Joshua Cooper Ramo - The Seventh Sense
+
+## Communication
+* Dianna Booher - Would you put that in writing?
+* Dale Carnegie - How to Win Friends and Influence People
+* Harvard Program on Negotiation: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
+* Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
+* Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
+* Harvard Program on Negotiation: William L. Ury - Getting Past No
 
 ## Computer science & software engineering
 * Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
@@ -49,11 +53,6 @@ Recommended reads are marked with an \*.
 * Jessica Helfand - The Invention of Desire
 * Edward Tufte - The Visual Display of Quantitative Information\*
 * Edward Tufte - Visual Explanations: Images and Quantities, Evidence and Narrative\*
-
-## Engineering management
-* Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
-* Will Larson - An Elegant Puzzle: Systems of Engineering Management
-* Michael Lopp - Managing Humans
 
 ## Finance
 * Taylor Larimore et. al. - The Boglehead's Guide to Investing
@@ -106,6 +105,7 @@ Recommended reads are marked with an \*.
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
+* Joshua Cooper Ramo - The Seventh Sense
 * Neal Stephenson - In the beginning... was the command line
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
 * Karl Zimmer - She Has Her Mother's Laugh
