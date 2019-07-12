@@ -33,6 +33,7 @@ Recommended reads are marked with an \*.
 ## Communication
 * Dianna Booher - Would you put that in writing?
 * Dale Carnegie - How to Win Friends and Influence People
+* Faber & Mazlish - How to Talk So Kids Will Listen & Listen So Kids Will Talk\*
 * Harvard Program on Negotiation: Roger Fisher and William L. Ury - Getting to Yes: Negotiating Agreement Without Giving In\*
 * Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
 * Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
