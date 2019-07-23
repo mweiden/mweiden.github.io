@@ -109,4 +109,5 @@ Recommended reads are marked with an \*.
 * Joshua Cooper Ramo - The Seventh Sense
 * Neal Stephenson - In the beginning... was the command line
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
+* M. Mitchell Waldrop - The Dream Machine\*
 * Karl Zimmer - She Has Her Mother's Laugh
