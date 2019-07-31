@@ -9,6 +9,7 @@ title: "Reading list"
 Recommended reads are marked with an \*.
 
 ## Business
+* Tom DeMarco - Slack
 * John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
 * Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
