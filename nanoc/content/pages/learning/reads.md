@@ -105,6 +105,7 @@ Recommended reads are marked with an \*.
 * Jon Gertner - The Idea Factory: Bell Labs and the Great Age of American
   Innovation\*
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
+* Donella Meadows - Thinking in Systems: A Primer
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
 * Joshua Cooper Ramo - The Seventh Sense
