@@ -22,6 +22,7 @@ Recommended reads are marked with an \*.
 * Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business
 * Jeffrey Linker - The Toyota Way\*
 * Michael Lopp - Managing Humans
+* Gordon MacKenzie - Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace
 * Redlan Nadler - Leading with Emotional Intelligence\*
 * Donald G. Reinertsen - The Principles of Product Development Flow\*
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
