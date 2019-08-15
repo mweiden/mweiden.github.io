@@ -12,6 +12,7 @@ Recommended reads are marked with an \*.
 * Tom DeMarco - Slack
 * John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
 * Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
+* Elad Gil - High Growth Handbook
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
 * Andrew S. Grove - High Output Management\*
 * William Haeberle - How a Business Works
