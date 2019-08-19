@@ -32,6 +32,7 @@ Recommended reads are marked with an \*.
 * Eric Schmidt et. al. - Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell\*
 * Kim Scott - Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity
 * Peter Thiel with Blake Masters - Zero to One: Notes on Start-Ups, or How to Build the Future\*
+* Julie Zhou - The Making of a Manager: What to Do When Everyone Looks to You
 
 ## Communication
 * Dianna Booher - Would you put that in writing?
