@@ -35,6 +35,7 @@ Recommended reads are marked with an \*.
 * Julie Zhou - The Making of a Manager: What to Do When Everyone Looks to You
 
 ## Communication
+* The Arbinger Institute - Leadership and Self-deception\*
 * Dianna Booher - Would you put that in writing?
 * Dale Carnegie - How to Win Friends and Influence People
 * Faber & Mazlish - How to Talk So Kids Will Listen & Listen So Kids Will Talk\*
