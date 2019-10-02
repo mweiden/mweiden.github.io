@@ -9,6 +9,8 @@ title: "Reading list"
 Recommended reads are marked with an \*.
 
 ## Business
+* Laszlo Bock - Work Rules!: Insights from Inside Google That Will Transform
+  How You Live and Lead\*
 * Tom DeMarco - Slack
 * John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
 * Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
