@@ -45,6 +45,7 @@ Recommended reads are marked with an \*.
 * Harvard Program on Negotiation: Roger Fisher and Daniel Shapiro - Beyond Reason
 * Harvard Program on Negotiation: Stone, Patton, Heen - Difficult Conversations\*
 * Harvard Program on Negotiation: William L. Ury - Getting Past No
+* Bailey Richardson et. al. - Get Together: How to build a community with your people
 
 ## Computer science & software engineering
 * Betsy Beyer et. al. - Site Reliability Engineering: How Google Runs Production Systems\*
