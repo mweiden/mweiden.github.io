@@ -113,6 +113,7 @@ Recommended reads are marked with an \*.
 ## Technology and society
 * Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
 * John Carreyrou - Bad Blood: Secrets and Lies in a Silicon Valley Startup\*
+* Seth Stephens-Davidowitz - Everybody Lies
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
 * Jon Gertner - The Idea Factory: Bell Labs and the Great Age of American
   Innovation\*
