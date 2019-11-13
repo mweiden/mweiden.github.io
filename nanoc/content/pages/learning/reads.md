@@ -127,5 +127,6 @@ Recommended reads are marked with an \*.
   of Life and Save the World
 * Neal Stephenson - In the beginning... was the command line
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
+* John Sulston - The Common Thread
 * M. Mitchell Waldrop - The Dream Machine\*
 * Karl Zimmer - She Has Her Mother's Laugh
