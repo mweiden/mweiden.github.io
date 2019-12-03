@@ -75,6 +75,7 @@ Recommended reads are marked with an \*.
 * Francis Fukuyama - Identity: The Demand for Dignity and the Politics of Resentment\*
 * Francis Fukuyama - Origins of Political Order\*
 * Francis Fukuyama - Political Order and Political Decay\*
+* Sam Harris - Letter to a Christian Nation
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Arle Russel Hochschild - Strangers In Their Own Land
 * Rebecca Solnit - Call Them by Their True Names: American Crises (and Essays)
