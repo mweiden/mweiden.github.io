@@ -118,6 +118,7 @@ Recommended reads are marked with an \*.
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
 * Jon Gertner - The Idea Factory: Bell Labs and the Great Age of American
   Innovation\*
+* Stephen Hilgartner - Reordering Life: Knowledge and Control in the Genomics Revolution
 * Mike Isaac - Super Pumped: The Battle for Uber
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
 * Donella Meadows - Thinking in Systems: A Primer
