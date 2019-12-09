@@ -108,6 +108,7 @@ Recommended reads are marked with an \*.
 * Marcus Aurelius - Meditations
 * Roland Barthes - Mythologies\*
 * Roland Barthes - S/Z\*
+* Christopher Hitchens - God Is Not Great: How Religion Poisons Everything
 * Niccolò Machiavelli - The Prince\*
 * Maggie Nelson - The Art of Cruelty\*
 
