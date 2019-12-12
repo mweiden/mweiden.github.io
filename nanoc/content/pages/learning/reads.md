@@ -23,6 +23,7 @@ Recommended reads are marked with an \*.
 * William Haeberle - How a Business Works
 * Heidari-Robinson & Heywood - Reorg: how to get it right
 * Ben Horowitz - The Hard Thing About Hard Things\*
+* Ben Horowitz - What You Do Is Who You Are
 * Frederic Laloux - Reinventing Organizations\*
 * Will Larson - An Elegant Puzzle: Systems of Engineering Management
 * Patrick Lencioni - The Advantage: Why Organizational Health Trumps Everything Else in Business
