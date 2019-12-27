@@ -16,6 +16,7 @@ Recommended reads are marked with an \*.
   Great Firms to Fail\*
 * Tom DeMarco - Slack
 * John Doerr - Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs\*
+* Peter Drucker - The Effective Executive\*
 * Camille Fournier - The Manager's Path: A Guide For Tech Leaders Navigating
 * Elad Gil - High Growth Handbook
 * Eliyahu M. Goldratt - The Goal: A Process of Ongoing Improvement\*
