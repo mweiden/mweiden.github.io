@@ -31,6 +31,8 @@ Recommended reads are marked with an \*.
 * Jeffrey Linker - The Toyota Way\*
 * Michael Lopp - Managing Humans
 * Gordon MacKenzie - Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving with Grace
+* Yves Morieux & Peter Tollman - How to Manage Complexity without Getting
+  Complicated
 * Redlan Nadler - Leading with Emotional Intelligence\*
 * Donald G. Reinertsen - The Principles of Product Development Flow\*
 * Rothman & Derby - Behind Closed Doors: Secrets of Great Management
