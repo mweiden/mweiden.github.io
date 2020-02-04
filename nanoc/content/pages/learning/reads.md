@@ -45,6 +45,7 @@ Recommended reads are marked with an \*.
 
 ## Communication
 * The Arbinger Institute - Leadership and Self-deception\*
+* The Arbinger Institute - The Outward Mindset
 * Dianna Booher - Would you put that in writing?
 * Dale Carnegie - How to Win Friends and Influence People
 * Faber & Mazlish - How to Talk So Kids Will Listen & Listen So Kids Will Talk\*
