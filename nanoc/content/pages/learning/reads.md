@@ -139,4 +139,5 @@ Recommended reads are marked with an \*.
 * Brad Stone - The Everything Store: Jeff Bezos and the Age of Amazon
 * John Sulston - The Common Thread
 * M. Mitchell Waldrop - The Dream Machine\*
+* Anna Wiener - Uncanny Valley
 * Karl Zimmer - She Has Her Mother's Laugh
