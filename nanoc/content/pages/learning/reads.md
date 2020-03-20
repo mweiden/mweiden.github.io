@@ -63,6 +63,8 @@ Recommended reads are marked with an \*.
 * Brendan Gregg - Systems Performance: Enterprise and the Cloud
 * Hunt & Thomas - The Pragmatic Programmer
 * Martin Kleppmann - Designing Data-Intensive Applications\*
+* Ken Kocienda - Creative Selection: Inside Apple's Design Process During the
+  Golden Age of Steve Jobs\*
 * Judea Pearl - The Book of Why: The new Science of Cause and Effect\*
 * Luciano Ramalho - Fluent Python\*
 * Sussman, Abelson & Sussman - Structure and Interpretation of Computer Programs\*
