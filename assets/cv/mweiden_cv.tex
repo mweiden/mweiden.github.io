@@ -7,6 +7,9 @@
             linkcolor=red,
             urlcolor=blue,
             citecolor=gray]{hyperref}
+            
+\usepackage{xcolor}
+\pagecolor{white}
 
 \topmargin -.25in
 \oddsidemargin -.5in
@@ -30,88 +33,96 @@
       \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
       \setlength{\leftmargin}{0.2in}}}{\end{list}}
 
-
+\definecolor{darkgray}{RGB}{55,55,55}
 \begin{document}
 
-\name{Matthew R. Weiden \vspace*{.075in}}
+\name{Matthew Weiden \vspace*{.075in}}
 
 \begin{resume}
 \section{\sc Contact Information}
 \vspace{.05in}
 \begin{tabular}{@{}p{2in}p{4in}}
-Granseerstra{\ss}e \#4             & {\it voice:}  +49 151 6460 7470 \\
-Berlin 10435, Deutschland & {\it e-mail:}  matthew.weiden@gmail.com\\
-  & {\it website:} https://mweiden.github.io
+278 Monroe Drive, \#17             & (650) 885-0025 \\
+Mountain View, CA 94040 & \href{mailto:matthew.weiden@gmail.com}{matthew.weiden@gmail.com}\\
+  & \href{https://mweiden.github.io}{https://mweiden.github.io}
 \end{tabular}
 
-\section{\sc Interests}
-engineering management, project management, product development flow, data mining, machine learning
+\section{\sc About}
+engineering management, project management, software engineering, distributed systems
+
+\section{\sc Computing}
+\begin{description}
+\item[Languages:] Python, JavaScript, Bash/Zsh, HTML/CSS, Scala, Java, C/C++
+\item[Frameworks:] Terraform, React, Numpy/Scipy/Pandas, Spark, Crunch, Hadoop, Twitter Finagle
+\item[Databases:] MySQL, PostgreSQL, DynamoDB
+\item[Platforms:] AWS, Kubernetes, Docker
+\end{description}
 
 \section{\sc Professional Experience}
-{\bf SoundCloud Ltd.} Berlin, Germany\\
-\vspace*{-.1in}
-\begin{list1}
-\item[] {\em Content Identification Team: Engineering Manager} \hfill {\bf July 2016 - Present}\\
-Leads the Content Identification Team in building audio fingerprinting systems and copyright services. Focuses on supporting engineers, making business metrics visible, product development flow, and project management.
 
+{\bf Chan Zuckerberg Initiative} \hfill \textcolor{darkgray}{Redwood City, California}\\
+\begin{list1}
+\setlength\itemsep{1em}
+\item[] {\bf Engineering Manager \textbar ~Single-Cell Engineering Team} \hfill \textcolor{darkgray}{November 2019 - Present} \vspace{1mm} \\
+The Single-Cell Engineering Team provides engineering support to the Science Initiative's \href{https://chanzuckerberg.com/science/programs-resources/single-cell-biology/}{Single-Cell Biology Program}.
 \begin{itemize}
-\item As a hiring manager, built up a team from one engineer to five
-\item Holds weekly one-on-one meetings with reports and writes feedback focused on performance review and professional development
-\item Led the implementation of Agile practices including Kanban, Grooming, WIP limits, and frequent retrospectives
-\item Redesigned the team's KPIs to better monitor its impact on company-wide KPIs and cost
-\item Developed a Jira integration used by 18 different teams at SoundCloud to monitor Lead Time, Cycle Time, bugs, cumulative flow, and code inventory
-\item Developed a set of \href{https://en.wikipedia.org/wiki/Visual_control}{simple visual controls} to help engineering managers improve their project management
-\item Wrote a report with recommendations on optimizing product development flow that are being adopted company-wide; their adoption has correlated with a 30\% reduction of SoundCloud's code inventory and a reported 29\% reduction in the average lead time of its teams
-\item Writes technical reports for legal, rightsholder management, and funding purposes
-\item Manages contracts and integrations with Audible Magic, a third party contractor
+\item Managing development of two projects: \href{https://github.com/chanzuckerberg/cellxgene}{cellxgene}, a visualization tool for single-cell expression matrices, and Corpora, a data portal with harmonized datasets enabling \href{https://www.nature.com/articles/s41576-019-0093-7}{integrative single-cell analysis}.
 \end{itemize}
 
+\item[] {\bf Engineering Manager \textbar ~Science Platforms Team} \hfill \textcolor{darkgray}{February 2018 - October 2019} \vspace{1mm} \\
+The Science Platforms Team built software and fostered collaborations within the biomedical scientific community in order to develop high-scale, cloud-based compute platforms for the \href{https://en.wikipedia.org/wiki/Single-cell_analysis}{single-cell analysis} ecosystem.
+\begin{itemize}
+\item Managed CZI's software contributions to the \href{https://www.humancellatlas.org/data-coordination/}{Human Cell Atlas Data Coordination Platform} including its  \href{https://github.com/HumanCellAtlas/fusillade}{authentication/authorization framework}, \href{https://github.com/HumanCellAtlas/upload-service}{data upload API}, \href{https://github.com/HumanCellAtlas/matrix-service}{expression matrix API}, and \href{https://github.com/HumanCellAtlas/dcp-monitoring}{observability framework}
+\item Partnered with engineering teams at the University of California: Santa Cruz Genomics Institute, the European Bioinformatics Institute, the Cherry Lab at Stanford, and the Broad Institute of Harvard/MIT
+\end{itemize}
+
+\item[] {\bf Backend Engineer \textbar ~Science Tools and Platforms Team} \hfill \textcolor{darkgray}{November 2017 - January 2018} \vspace{1mm} \\
+Joined the Science Tools and Platforms Team to work on technology contributions to the \href{https://www.humancellatlas.org/}{Human Cell Atlas}.
+\begin{itemize}
+\item Delivered the first iteration of a \href{https://github.com/HumanCellAtlas/logs}{logging and monitoring system}
+\end{itemize}
 \end{list1}
 
-{\bf SoundCloud Ltd.} Berlin, Germany\\
-\vspace*{-.1in}
+
+{\bf SoundCloud Ltd.} \hfill \textcolor{darkgray}{Berlin, Germany}\\
 \begin{list1}
-\item[] {\em Trust, Safety, \& Security Team: Backend Engineer (level 3/5)} \hfill {\bf November 2012 - June 2016}\\
-Worked with security engineers in building anti-spam and anti-abuse systems that leverage data science and defensive network security strategies.
+\setlength\itemsep{1em}
+\item[] {\bf Engineering Manager \textbar \, Content Identification Team} \hfill \textcolor{darkgray}{July 2016 - October 2017} \vspace{1mm} \\
+The Content Identification Team built audio fingerprinting systems and copyright protection services to keep SoundCloud compliant with terms negotiated with Sony, Warner, and UMG.
+
+\begin{itemize}
+\item Hired four engineers, bringing total team size to five
+\item Led the implementation of Agile practices including Kanban, Grooming, WIP limits, and frequent retrospectives
+\item Redesigned the team's KPIs to better monitor its impact on company-wide KPIs and cost
+\item Developed a \href{https://github.com/soundcloud/project-dev-kpis}{Jira integration} used by 18 different teams at SoundCloud to monitor Lead Time, Cycle Time, bugs, cumulative flow, and code inventory
+\item Developed a \href{https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime}{strategy to improve product development flow} that resulted in a 30\% reduction of SoundCloud's code inventory and a reported 29\% reduction in the average lead time of its teams
+\item Wrote technical reports for legal, rightsholder management, and funding purposes
+\item Managed contracts and integrations with Audible Magic, a third party contractor
+\end{itemize}
+
+\item[] {\bf Backend Engineer \textbar ~Trust, Safety, \& Security Team} \hfill \textcolor{darkgray}{November 2012 - June 2016} \vspace{1mm} \\
+The Trust, Safety, and Security team provided SoundCloud's information security, anti-spam, and anti-abuse services.
 
 \begin{itemize}
 \item Implemented microservices and batch jobs for detecting spam, platform abuse, and terms of service violations
-\item Trained machine learning models and designed experiments for validating their performance
+\item Trained machine learning models for detecting spam, designed/conducted experiments to validate model performance, and deployed models to production
 \item Participated in risk-management exercises for estimating the company's risk liability
 \item Redesigned the team's KPIs to monitor the impact of spam and abuse on company-wide KPIs and cost
 \end{itemize}
 
 \end{list1}
 
-{\bf HRL Laboratories} Malibu, California\\
-\vspace*{-.1in}
+{\bf HRL Laboratories} \hfill \hfill \textcolor{darkgray}{Malibu, California}\\
 \begin{list1}
-\item[] {\em Information and Systems Sciences Lab: Research Vendor} \hfill {\bf June 2011 - October 2012}\\
+\item[] {\bf Research Vendor \textbar \, Information and Systems Sciences Lab} \hfill \textcolor{darkgray}{June 2011 - October 2012} \vspace{1mm}\\
 Implemented machine learning software for an EEG-based brain-computer interface and conducted behavioral experiments for the \href{https://en.wikipedia.org/wiki/Cognitive_Technology_Threat_Warning_System}{CT2WS} project led by the Defense Advanced Research Agency (DARPA).
 \end{list1}
 
-{\bf University of California, Santa Barbara}\\
-\vspace*{-.1in}
-\begin{list1}
-\item[] {\em Office of Governmental Relations: Intern} \hfill {\bf December 2011  - June 2012}\\
-Helped organize higher education advocacy events, analyze legislation, and promote the University of California's legislative program.\\
-\vspace*{-.1in}
-\item[] {\em Teaching Assistant} \hfill {\bf Intermittent, January 2011  - June 2012}\\
-Led sections on parallel computing and introductory programming. Duties included leading sections, holding office hours, grading, and writing course materials.
-\begin{itemize}
-\item The parallel computing courses covered message passing using MPI and multithreading using Intel Cilk Plus at both undergraduate and graduate levels
-\item Introductory programming helped introduce fundamental computer science concepts to first year engineering students using MatLab
-\end{itemize}
-\end{list1}
-
 {\bf University of California, Los Angeles}\\
-\vspace*{-.1in}
+
 \begin{list1}
-\item[] {\em Computational Learning and Vision Lab: Research Assistant} \hfill {\bf Spring 2008 - Summer 2010}\\
-Worked with professors Hongjing Lu and Alan Yuille in developing behavioral experiments and implementing machine learning algorithms that model human and rat behavior.\\
-\vspace*{-.1in}
-\item[] {\em Reasoning Lab: Research Assistant} \hfill {\bf Spring 2007 - Spring 2008}\\
-Worked with Mimi Liljeholm, a postdoctoral researcher writing software in Matlab and Java for use in experiments and assisting in experimental design.
+\item[] {\bf Research Assistant \textbar ~Computational Learning and Vision Lab} \hfill \textcolor{darkgray}{Spring 2008 - Summer 2010} \vspace{1mm}\\
+Worked with professors Hongjing Lu and Alan Yuille to develop behavioral experiments and implemented machine learning algorithms that model human and rat behavior.\\
 \end{list1}
 
 \section{\sc Publications}
@@ -122,39 +133,23 @@ Worked with Mimi Liljeholm, a postdoctoral researcher writing software in Matlab
 \nocite{*}
 \printbibliography
 
-\section{\sc Open Source}
-\begin{description}
-\item[] \href{https://github.com/soundcloud/spdt}{Streaming Parallel Decision Tree}: decision tree implementation with online learning
-\item[] \href{https://github.com/soundcloud/sketchy-core}{Sketchy}: an event processing network for spam detection and prevention
-\item[] \href{https://github.com/mweiden/alyssa}{Alyssa}: A simple LISP interpreter
-\end{description}
-
-\section{\sc Computing}
-\begin{description}
-\item[Languages] Scala, Python, C/C++, Bash, MatLab, HTML/CSS, MySQL
-\item[APIs] Spark, Crunch, Hadoop, Numpy/Scipy/Pandas, Twitter Finagle
-\item[Platforms] Kubernetes, Docker
-\end{description}
-
 \section{\sc Education}
 {\bf University of California, Santa Barbara}\\
-\vspace*{-.1in}
 \begin{list1}
-\item[] M.Sc. Computer Science \hfill {\bf September 2012}
+\item[] M.Sc. Computer Science \hfill \hfill \textcolor{darkgray}{September 2012}
 \end{list1}
 
 {\bf University of California, Los Angeles}\\
 %{\em Department of Mathematics and Statistics}
-\vspace*{-.1in}
 \begin{list1}
-\item[] B.S. Cognitive Science; Computing Specialization \hfill {\bf September 2009}
-\item[] B.A. Art \hfill {\bf September 2009}
+\item[] B.S. Cognitive Science; Computing Specialization \hfill \hfill \textcolor{darkgray}{September 2009}
+\item[] B.A. Art \hfill \hfill \textcolor{darkgray}{September 2009}
 \end{list1}
 
 \section{\sc Practical Information}
 \begin{description}
 \item[Citizenship] US National
-\item[Languages] Native English Speaker, German (C1)
+\item[Languages] English (native speaker), German (C1)
 \end{description}
 
 %\section{\sc Honors and Awards}
