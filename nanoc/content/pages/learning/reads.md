@@ -125,6 +125,7 @@ Recommended reads are marked with an \*.
 * Seth Stephens-Davidowitz - Everybody Lies
 * Susan Fowler - Whistleblower
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
+* Sarah Frier - No Filter: The Inside Story of Instagram
 * Jon Gertner - The Idea Factory: Bell Labs and the Great Age of American
   Innovation\*
 * Stephen Hilgartner - Reordering Life: Knowledge and Control in the Genomics Revolution
