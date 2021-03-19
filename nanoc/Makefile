@@ -1,4 +1,4 @@
 default: site
 
 site:
-	nanoc
+	nanoc compile

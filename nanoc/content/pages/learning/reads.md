@@ -79,12 +79,14 @@ Recommended reads are marked with an \*.
 * Eric Tyson and Ray Brown - Home Buying Kit for Dummies
 
 ## History and politics
+* Ta-Nehisi Coates - Between the World and Me
 * Francis Fukuyama - Identity: The Demand for Dignity and the Politics of Resentment\*
 * Francis Fukuyama - Origins of Political Order\*
 * Francis Fukuyama - Political Order and Political Decay\*
 * Sam Harris - Letter to a Christian Nation
 * David Harvey - The Enigma of Capital & the Crises of Capitalism\*
 * Arle Russel Hochschild - Strangers In Their Own Land
+* Barack Obama - A Promised Land\*
 * Rebecca Solnit - Call Them by Their True Names: American Crises (and Essays)
 * Jason Stanley - How Propaganda Works\*
 
@@ -122,6 +124,7 @@ Recommended reads are marked with an \*.
 ## Technology and society
 * Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
 * John Carreyrou - Bad Blood: Secrets and Lies in a Silicon Valley Startup\*
+* Alex Davies - Driven: The Race to Create the Autonomous Car
 * Seth Stephens-Davidowitz - Everybody Lies
 * Susan Fowler - Whistleblower
 * Abraham H. Foxman - Viral Hate: Containing Its Spread on the Internet
