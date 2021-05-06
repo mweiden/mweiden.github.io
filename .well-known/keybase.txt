@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/weiden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mweiden.github.io
+  * I am weiden (https://keybase.io/weiden) on keybase.
+  * I have a public key with fingerprint E263 B46A A365 146E A3ED  3812 7DA4 A171 B407 E270
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dbbbea92aa4fccb1853bf81f1d69d691410c36e5f31c4a9ad734be69e30e74640a",
+      "fingerprint": "e263b46aa365146ea3ed38127da4a171b407e270",
+      "host": "keybase.io",
+      "key_id": "7da4a171b407e270",
+      "kid": "0101dbbbea92aa4fccb1853bf81f1d69d691410c36e5f31c4a9ad734be69e30e74640a",
+      "uid": "6152616c0d1ca12fab7a5af51979dd00",
+      "username": "weiden"
+    },
+    "service": {
+      "hostname": "mweiden.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1620283044,
+  "expire_in": 157680000,
+  "prev": "68372d7cf9f00f8f67e91437cc59d3783597f1db1baf0f35ff17fd69e6f13402",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVGUU3uWjACMRNrbCyG41AqHe73t3FZS0mUqDUTDGlljvx3vhitxd9t5d
+UljUEdGmRAaMGVOSZRsExqZCwHZCDWblY+hTaYJiJjEQ0QEjYFBU6C7ov372zjvz
+znvO8zznnGdOWai/Jkjr/NyV1/Tkdau2Z5TV7KwobSiAWAu/BzIWQDlg4QG7eSAr
+5hyRh4wQjMAIz7IsYAwow+ACx7EITWCsQCMCwpMG9SI4AnMYCQgBQzicMTA8heEs
+IA0AgwGFkzjMQPGQIEpZwGa1iZKiygKUxFicZBiMJBCcBAwGeIxGUIpncAahEBaH
+KYBSsErMtsg+htocy8hgtWhRY+rHvNDef+D/577tC3IkQqAkQnIwj3AMggoMSzEE
+IxCIgTLwPOyra5eBTWJygYrOByIPJMgZD6kxh8gBn62+OR7lcxcBq7NEJdvOLo5k
+tVkUC2fZraazFcUqG310ZY91UY81P1Iys6LEq1aqDAewyaJFgoyIiuQU0SeNkCiM
+0hiM4/EQ+MAq2oBZ9CEIiqRh9fjqAIdvIBqjTChPcYJBgGGBFkgKqI5gFMcRBh6j
+aIwwUKpTLMIyAixghCAglKC6BkgBwXAYhXzD5UkWyEirfTJZqqYsZkmMYrcByBny
+oR8WoNEGaV6IfCngOte0yw10knuMDn+8foF+vt3ThASHPY54nEvnCzU956IJonfw
+q4CMyZ9P197wDF1sxpevmEnKKfLm667VtIYmVkp+x8bHbvRuveRprAhqr3SVyLZn
+9MsK8qrudG4aHj+1xE5HrUts2nD/wHu6M7h/a0QR1DSri6dGqno923ouXdjrMp3e
+8nxIuntZYU1L7W+DhP3v6Q6mpKj9u4OyLrXi44H0yr9e+dPNake05QWubtPFRqkv
+9nK0++bskYSOOG+vdzJ6fO0PUUnj8vKTnTMPuwLTPt1ZOPXOPaju6ciUw81Jzulp
+Gd1Q+Dq8DR+aqtYWh/rFNXcvXVfHJWW/eOXQ3qsn54Yndpuimvf96tqUc7R0tnji
+7t0j87ce6Mv0U97n7CssYc1NGVyc2J+QPHc+xtZmqo5rbxv+Jq2+LPhNj8exMbkt
+/ACzvnRqTcTo/ldjP9Lm3T+rjXRJb6Hb3z5X/5pbaza2+j+8TTkd3uIH1Yn7k4uT
+6ROrAtd8/Uu/JeYqp8iup2L+mdENFr98PGqulxo73yH3JeXviG3cXAXVT/X33Y7T
+ms4GHIN/39owGrH+YH3J5vILx5dktlzp1ArbQ7YMTeSeere89o20n4Q/9N+u0t8L
++Cw4G7zvvTzprR0Tvzwzgsc8kTKzb6J/Y0LGnXlPTcMJZXKl/osdYc8OOA6FhHtv
+6TONn6R+35XZMdmytmtgZerNjvQUcO3Ho/27Crvr/gU=
+=DGtd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/weiden
+
+==================================================================
+
