@@ -88,6 +88,7 @@ Recommended reads are marked with an \*.
 * Arle Russel Hochschild - Strangers In Their Own Land
 * Barack Obama - A Promised Land\*
 * Rebecca Solnit - Call Them by Their True Names: American Crises (and Essays)
+* Jason Stanley - How Fascism Works\*
 * Jason Stanley - How Propaganda Works\*
 
 ## Literature
@@ -133,7 +134,9 @@ Recommended reads are marked with an \*.
   Innovation\*
 * Stephen Hilgartner - Reordering Life: Knowledge and Control in the Genomics Revolution
 * Mike Isaac - Super Pumped: The Battle for Uber
+* Walter Isaacson - Steve Jobs
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
+* Jaron Lanier - You Are Not a Gadget\*
 * Donella Meadows - Thinking in Systems: A Primer
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
