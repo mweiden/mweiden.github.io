@@ -6,6 +6,8 @@ title: "Reading list"
   <img src="/assets/img/bookshelf.jpg">
 </div>
 
+I prepared this reading list--not Charles (see poodle on the "About Me" page). Dogs can't read, yet.
+
 Recommended reads are marked with an \*.
 
 ## Business
