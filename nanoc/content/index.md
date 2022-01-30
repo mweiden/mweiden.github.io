@@ -2,9 +2,6 @@
 title: "About me"
 ---
 
-<img src="/assets/img/me.jpg" width="50%"/>
+<img src="/assets/img/matt_and_charles.jpg" width="50%"/>
 
-I'm an Engineering Manager at the [Chan-Zuckerberg
-Initiative](https://chanzuckerberg.com/) on the Single Cell Engineering Team.
-Broadly, my interests are data science, project management, and improving
-developer productivity.
+I'm an Engineering Manager at [Cruise Automation](https://getcruise.com/) on the Machine Learning Platform team.
