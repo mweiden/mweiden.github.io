@@ -116,13 +116,16 @@ Recommended reads are marked with an \*.
 * Karl Ove Knausgaard - My Struggle pt4
 * Tarjei Vesaas - The Birds\*
 
-## Philosophy
+## Philosophy & Religion
 * Marcus Aurelius - Meditations
 * Roland Barthes - Mythologies\*
 * Roland Barthes - S/Z\*
 * Christopher Hitchens - God Is Not Great: How Religion Poisons Everything
 * Niccolò Machiavelli - The Prince\*
 * Maggie Nelson - The Art of Cruelty\*
+* Shunryū Suzuki - Zen Mind, Beginner's Mind\*
+* Nayanaponika Thera - The Heart of Buddhist Meditation\*
+* Alan Watts - The Way of Zen
 
 ## Technology and society
 * Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
