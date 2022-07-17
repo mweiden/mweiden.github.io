@@ -145,7 +145,7 @@ Recommended reads are marked with an \*.
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
 * Joshua Cooper Ramo - The Seventh Sense
-* Stuart Russel - Human Compatible: Artificial Intelligence and the Problem of
+* Stuart Russell - Human Compatible: Artificial Intelligence and the Problem of
   Control\*
 * James Shreeve - The Genome War: How Craig Venter Tried to Capture the Code
   of Life and Save the World
