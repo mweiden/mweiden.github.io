@@ -123,6 +123,7 @@ Recommended reads are marked with an \*.
 * Niccolò Machiavelli - The Prince\*
 * Maggie Nelson - The Art of Cruelty\*
 * Shunryū Suzuki - Zen Mind, Beginner's Mind\*
+* Kazuaki Tanahasi & Peter Levitt - The Essential Dogen: Writings of the Great Zen Master
 * Nayanaponika Thera - The Heart of Buddhist Meditation\*
 * Alan Watts - The Way of Zen
 
