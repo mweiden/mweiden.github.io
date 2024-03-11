@@ -2,11 +2,10 @@ default: site
 
 .PHONY: clean
 clean:
-	git clean -fd
-	find . | egrep -v '^[.]|[.][.]|[.]/LICENSE[.]txt|[.]/Makefile|[.]/README.md|[.]/nanoc|[.]git$$' | xargs rm -r
+	rm -r index.html pages/
 
 .PHONY: site
 site: clean
 	cd nanoc && make
-	cp -r nanoc/output/* ./
+	cp -r nanoc/output/{index.html,pages} ./
 

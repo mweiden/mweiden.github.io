@@ -6,8 +6,6 @@ title: "Reading list"
   <img src="/assets/img/bookshelf.jpg">
 </div>
 
-I prepared this reading list--not Charles (see poodle on the "About Me" page). Dogs can't read, yet.
-
 Recommended reads are marked with an \*.
 
 ## Business
@@ -115,19 +113,27 @@ Recommended reads are marked with an \*.
 * Karl Ove Knausgaard - My Struggle pt4
 * Tarjei Vesaas - The Birds\*
 
-## Philosophy & Religion
+## Philosophy
 * Marcus Aurelius - Meditations
 * Roland Barthes - Mythologies\*
 * Roland Barthes - S/Z\*
-* Christopher Hitchens - God Is Not Great: How Religion Poisons Everything
 * Niccolò Machiavelli - The Prince\*
 * Maggie Nelson - The Art of Cruelty\*
+
+## Religion & meditation
+* Reb Anderson - Being Upright
+* Anonymous and Valerie Roebuck - The Dhammapada
+* Sam Harris - Waking Up
+* Christopher Hitchens - God Is Not Great: How Religion Poisons Everything
+* Les Kaye - A Sense of Something Greater
+* Wapola Rahula - What the Buddha Taught
 * Shunryū Suzuki - Zen Mind, Beginner's Mind\*
+* Shunryū Suzuki - Not Always So
 * Kazuaki Tanahasi & Peter Levitt - The Essential Dogen: Writings of the Great Zen Master
 * Nayanaponika Thera - The Heart of Buddhist Meditation\*
 * Alan Watts - The Way of Zen
 
-## Technology and society
+## Technology & society
 * Leslie Berlin - Troublemakers: Silicon Valley's coming of age\*
 * John Carreyrou - Bad Blood: Secrets and Lies in a Silicon Valley Startup\*
 * Alex Davies - Driven: The Race to Create the Autonomous Car
@@ -141,10 +147,12 @@ Recommended reads are marked with an \*.
 * Mike Isaac - Super Pumped: The Battle for Uber
 * Walter Isaacson - Steve Jobs
 * Brian Krebs - Spam Nation: The Inside Story of Organized Cybercrime
+* Christine Lagorio-Chafkin - We Are the Nerds\*
 * Jaron Lanier - You Are Not a Gadget\*
 * Donella Meadows - Thinking in Systems: A Primer
 * Evgeny Morozov - The Net Delusion\*
 * Evgeny Morozov - To Save Everything, Click Here
+* Margaret O'Mara - The Code\*
 * Joshua Cooper Ramo - The Seventh Sense
 * Stuart Russell - Human Compatible: Artificial Intelligence and the Problem of
   Control\*
